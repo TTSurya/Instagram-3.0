@@ -1,0 +1,4 @@
+A blockchain is essentially a digital ledger that records transactions in a series of blocks. These blocks are 
+linked together in a chronological order, forming a chain of blocks (hence the name "blockchain"). Each block 
+contains a set of transactions, a timestamp, and a reference to the previous block, creating an immutable record 
+of all transactions.
